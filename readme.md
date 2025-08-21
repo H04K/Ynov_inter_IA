@@ -133,8 +133,6 @@ techcorp-ai-chat/
 ├── web_interface/              # Interface React/Node.js (non finalisée)
 ├── docker/                     # Configurations Docker
 ├── scripts/                    # Scripts de déploiement et utilitaires
-├── docs/                       # Documentation technique (partielle)
-├── team_logs_archive.md        # Logs de l'équipe précédente
 └── README_medical_fine_tuning.md # Guide fine-tuning médical
 ```
 
